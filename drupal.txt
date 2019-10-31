@@ -1,0 +1,21 @@
+Prérequis :
+	- Doc Drupal : https://www.drupal.fr/documentation
+	- Mettre à jour Drupal : http://localhost/drupal-demo/update.php
+	- Wamp/Mamp à jour
+	- Php à jour (Variable d'environnement => Variables système => PATH => C:\wamp\bin\php\phpx.x.xx)
+	- PhpStorm/SublimeText/Visual Studio Code à jour
+		- Installer PackageControl pour SublimeText
+		- Se rendre sur https://packagecontrol.io/installation
+		- Ouvrir la commande : Ctrl + Shift + P, écrire Package Control: Install Package
+		- Différent Packages : (Emmet, Future Funk, SideBarEnhancements, SublimeLinter, SublimeLinter-php, SublimeCodeIntel, Twig)
+		- Dracula Theme : https://draculatheme.com/
+
+
+Création projet :
+	- Installation Drupal : https://www.drupal.org/download
+	- Créer un dossier dans le répertoire www de Wamp, et déplacer/copier les dossiers de bases de Drupal
+	- Créer une BDD lié au projet
+	- Aller sur le répertoire par un navigateur, suivre l'installation
+	- Récupérer les fichiers de traductions : https://localize.drupal.org/download
+
+
