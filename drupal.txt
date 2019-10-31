@@ -17,5 +17,7 @@ Création projet :
 	- Créer une BDD lié au projet
 	- Aller sur le répertoire par un navigateur, suivre l'installation
 	- Récupérer les fichiers de traductions : https://localize.drupal.org/download
+	- Récupérer l'admin toolbar/page load progress/bootstrap dans les modules disponibles : https://www.drupal.org/project/project_module
 
-
+	- Modifier la page d'accueil : configuration/système/param de bases du site => mettre <front> dans la page d'accueil
+	- Autoriser les thèmes pour les utilisateurs : personnes/droits => system => Voir le thème d'administration

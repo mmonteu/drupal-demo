@@ -10,11 +10,11 @@
 [![Twitter](https://img.shields.io/twitter/follow/Marc_Monteu?label=Marc_Monteu&style=social)](https://twitter.com/Marc_Monteu)
 
 
-Ceci est un projet demo avec CMS Drupal 8.7.8. :droplet: 
+Ceci est un projet demo avec le CMS Drupal 8.7.8. :droplet: 
 
 ## :gear: Git
 ```
-git pull https://github.com/mmonteu/durpal-demo.git
+git pull https://github.com/mmonteu/drupal-demo.git
 ```
 
 ## :copyright: Copyright
